@@ -1,7 +1,5 @@
 
-Ninastech ![image](https://user-images.githubusercontent.com/82294375/223540115-b53b3115-abb6-4487-9ba8-8073f78b2103.png)
-
-
+<img width="795" alt="Screen Shot 2023-02-27 at 6 21 35 PM" src="https://user-images.githubusercontent.com/82294375/225368494-8df44573-3228-4566-a03d-47aef16e5f7c.png">
 
 
 <!---
