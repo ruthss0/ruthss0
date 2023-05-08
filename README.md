@@ -1,5 +1,5 @@
 
-<img width="795"  src="[https://user-images.githubusercontent.com/82294375/225368494-8df44573-3228-4566-a03d-47aef16e5f7c.png](https://www.linkedin.com/in/gabi-vawdrey-45807b1a4/overlay/background-image/)">
+<img width="795"  src="https://media.licdn.com/dms/image/D5616AQHtnT3ROW4qhw/profile-displaybackgroundimage-shrink_350_1400/0/1682892291075?e=1689206400&v=beta&t=vIDfERr5vG14JByqPbh3ee1EQoPAWkjK51nso8DDgW4">
 
 
 <!---
