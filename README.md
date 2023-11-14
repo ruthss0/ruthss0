@@ -19,9 +19,8 @@ You can click the Preview link to take a look at your changes.
 <p align="top-right"> 
 https://port-gabii.vercel.app/ 
 </p>
-<p align="right"> 
+<p align="left"> 
    <img src="https://github.com/ruthss0/ruthss0/assets/82294375/3d6cb959-26a6-4153-9742-d2161fa581bd" width="350" alt="img">
-
 </p>
 
 
