@@ -10,16 +10,16 @@ You can click the Preview link to take a look at your changes.
 
 ![himynameisgabi](https://github.com/ruthss0/ruthss0/assets/82294375/75098791-d5f0-4eb2-b047-d62c0f4feddc)
 
-
+<p align="top-right"> 
+   https://github.com/NinasTech/Ninastech-United
+</p>
 <p align="left"> 
-
-https://github.com/NinasTech/Ninastech-United
    <img src="https://github.com/ruthss0/ruthss0/assets/82294375/170a80c5-5f56-4b74-96d9-163b5a01ea22" width="350" alt="img">
 </p>
-
-<p align="right"> 
-
+<p align="top-left"> 
 https://port-gabii.vercel.app/ 
+</p>
+<p align="right"> 
    <img src="https://github.com/ruthss0/ruthss0/assets/82294375/3d6cb959-26a6-4153-9742-d2161fa581bd" width="350" alt="img">
 
 </p>
