@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> 
    <img src="https://github.com/ruthss0/ruthss0/assets/82294375/170a80c5-5f56-4b74-96d9-163b5a01ea22" width="350" alt="img">
 </p>
-<p align="top-left"> 
+<p align="top-right"> 
 https://port-gabii.vercel.app/ 
 </p>
 <p align="right"> 
