@@ -18,3 +18,9 @@ https://github.com/NinasTech/Ninastech-United
 
 
 https://port-gabii.vercel.app/
+
+
+![linkedin - Made with Clipchamp](https://github.com/ruthss0/ruthss0/assets/82294375/170a80c5-5f56-4b74-96d9-163b5a01ea22)
+
+
+![project2](https://github.com/ruthss0/ruthss0/assets/82294375/3d6cb959-26a6-4153-9742-d2161fa581bd)
