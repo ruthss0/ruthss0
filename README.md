@@ -5,9 +5,7 @@ ruthss0/ruthss0 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-![pattern_preview](https://github.com/ruthss0/ruthss0/assets/82294375/ad15f905-90e3-4f2a-a185-81615177989d)
-
+![totalmente_eu](https://github.com/ruthss0/ruthss0/assets/82294375/dcb8c341-47fb-48de-894e-cb6742e2d8ba)
 
 
 
